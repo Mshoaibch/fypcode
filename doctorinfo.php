@@ -166,7 +166,7 @@
 
 
                                   <div class="col-md-3">
-                                      <img src="img/doctor9.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor7.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
                                   <div class="col-md-3" > 
@@ -243,7 +243,7 @@
                                   </div>
 
                                  <div class="col-md-3">
-                                      <img src="img/doctor5.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
+                                      <img src="img/doctor7.jpg" alt="" class="img-responsive" style="width: 220px;height: 220px">
                                   </div>
 
                                   <div class="col-md-3">

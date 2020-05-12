@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Medical Management System</title>
+	<title></title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<style>
@@ -21,13 +21,13 @@
 	
 	<div class="navbar navbar-default nav">
 		<nav class="menu">
-			<ul>
+			<ul >
 				<li><a href="index.php">Home</a></li>
 				
 				<li><a href="doctorinfo.php">Medical Doctors</a></li>
-				<li><a href="about.php">About Us</a></li>
+				<!-- <li><a href="about.php">About Us</a></li>
 				<li><a href="contactus.php">Contact Us</a></li>
-				<li><a href="signin.php">User Login</a></li>
+ -->				<li><a href="signin.php">User Login</a></li>
 				
 			</ul>
 		</nav>

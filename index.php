@@ -15,14 +15,14 @@
 	</div><br>
 
 	
-	<div class="col-md-12 sliderImg">
+<!-- 	<div class="col-md-12 sliderImg">
 		<img src="img/doctor5.jpg" alt="">
 		<img src="img/photo.jpg" alt="">
 		<img src="img/doctor4.jpg" alt="">
 		<img src="img/hstu8.jpg"   alt="">
 		<img src="img/doctor3.jpg" alt="">
 		<img src="img/doctor6.png" alt="">
-	</div>
+	</div> -->
 	
 
 	
